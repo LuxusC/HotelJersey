@@ -9,10 +9,11 @@ import org.glassfish.jersey.server.ResourceConfig;
 
 /**
  * Main class.
- *
+ * @author Luxus_C
+ * @version $Id: Main.java, v 0.1 2017年10月22日 下午3:23:17 Luxus_C Exp $
  */
 public class Main {
-    // Base URI the Grizzly HTTP server will listen on
+    /** Base URI the Grizzly HTTP server will listen on */
     public static final String BASE_URI = "http://localhost:8080/HotelJersey/";
 
     /**
